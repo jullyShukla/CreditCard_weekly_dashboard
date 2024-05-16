@@ -12,6 +12,7 @@ data: Contains CSV files containing credit card transaction data.
 sql: Includes SQL scripts for creating tables in a SQL database, importing data from CSV files, and implementing data cleansing procedures.
 power_bi: Contains the Power BI dashboard project files, including data models, visualizations, and reports.
 docs: Documentation files, including the README.
+
 **Getting Started**
 To get started with the project, follow these steps:
 
@@ -21,6 +22,7 @@ Execute the SQL scripts in the sql directory to create tables, import data, and 
 Open the Power BI project files in the power_bi directory using Power BI Desktop.
 Customize the dashboard as needed, adding additional visualizations or insights as required.
 Deploy the Power BI dashboard to your preferred platform for sharing with stakeholders.
+
 **Key Findings and Insights**
 For a summary of the key findings and insights derived from the project, please refer to the Project Report.
 
